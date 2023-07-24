@@ -1,4 +1,4 @@
-function skilsMember() {
+function skillsMember() {
     var skills = ['HTML', 'CSS', 'JS', 'React', 'Node'];
     var member = {
         name: 'Sang',
